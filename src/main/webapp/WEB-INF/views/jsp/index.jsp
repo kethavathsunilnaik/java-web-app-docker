@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome to DevOps world. Sunil Devops engineer.</h2>
+			<h2>Welcome to DevOps world. SUNIL DEVOPS EGINEER.</h2>
 			<h3>Contact @ +91</h3>
 		</div>	
 	</div>
